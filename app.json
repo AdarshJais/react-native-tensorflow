@@ -1,0 +1,12 @@
+{
+  "name": "tensorflow2",
+  "displayName": "tensorflow2",
+  "expo": {
+    "name": "tensorflow2",
+    "slug": "tensorflow2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
