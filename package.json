@@ -8,6 +8,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.6.1",
+    "@tensorflow-models/blazeface": "^0.0.2",
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow-models/posenet": "^2.2.1",
+    "@tensorflow/tfjs": "3.1.0",
+    "@tensorflow/tfjs-react-native": "0.5.0",
     "expo": "~41.0.1",
     "expo-updates": "~0.5.4",
     "expo-splash-screen": "~0.10.2",
@@ -18,7 +24,16 @@
     "react-native-reanimated": "~2.1.0",
     "react-native-screens": "~3.0.0",
     "react-native-unimodules": "~0.13.3",
-    "react-native-web": "~0.13.12"
+    "react-native-web": "~0.13.12",
+    "expo-camera": "^11.0.2",
+    "expo-gl": "^10.2.0",
+    "expo-gl-cpp": "^10.1.0",
+    "expo-image-manipulator": "^9.1.0",
+    "jasmine-core": "^3.4.0",
+    "jpeg-js": "^0.4.3",
+    "react-native-fs": "2.14.1",
+    "react-native-svg": "12.1.0",
+    "rn-fetch-blob": "^0.10.15"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
